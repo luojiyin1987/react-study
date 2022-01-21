@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FrankFang/frank-test-2.git"
+    "url": "git+https://github.com/luojiyin1987/react-study.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FrankFang/frank-test-2/issues"
+    "url": "https://github.com/luojiyin1987/react-study/issues"
   },
-  "homepage": "https://github.com/FrankFang/frank-test-2#readme",
+  "homepage": "https://github.com/luojiyin1987/react-study#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.3.4",
     "@babel/preset-react": "^7.0.0",
