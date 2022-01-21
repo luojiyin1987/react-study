@@ -19,7 +19,7 @@ const Dialog: React.FunctionComponent<Props> =(props)=> {
         props.onClose(e);
     };
 
-    const OnClickMask: React.MouseEventHandler = (e) =>{
+    const onClickMask: React.MouseEventHandler = (e) =>{
         if (props.closeOnClickMask) {
             props.onClose(e);
         }
