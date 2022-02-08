@@ -4,7 +4,7 @@ import {scopedClassMaker} from '../helpers/classes';
 interface Props extends React.HTMLAttributes<HTMLElement> {
 }
 
-const sc = scopedClassMaker('gu-layout');
+const sc = scopedClassMaker('luo-layout');
 const Footer: React.FunctionComponent<Props> = (props) => {
   const {className, ...rest} = props;
   return (

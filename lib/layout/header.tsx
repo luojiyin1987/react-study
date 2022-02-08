@@ -1,7 +1,7 @@
 import React from 'react';
 import {scopedClassMaker} from '../helpers/classes';
 
-const sc = scopedClassMaker('gu-layout');
+const sc = scopedClassMaker('luo-layout');
 
 interface Props extends React.HTMLAttributes<HTMLElement> {
 }

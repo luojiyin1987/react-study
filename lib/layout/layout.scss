@@ -1,11 +1,11 @@
 @import "../helper";
-.gu-layout {
+.luo-layout {
   border: 1px solid red;
   display: flex;
   flex-direction: column;
   &.hasAside {
     flex-direction: row;
-    .gu-layout {
+    .luo-layout {
       flex-direction: column;
     }
   }
